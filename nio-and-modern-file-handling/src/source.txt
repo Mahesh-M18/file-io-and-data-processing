@@ -1,0 +1,1 @@
+This is the content which will be copied to the destination file

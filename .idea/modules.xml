@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic-file-operations/basic-file-operations.iml" filepath="$PROJECT_DIR$/basic-file-operations/basic-file-operations.iml" />
       <module fileurl="file://$PROJECT_DIR$/file-io-and-data-processing.iml" filepath="$PROJECT_DIR$/file-io-and-data-processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio-and-modern-file-handling/nio-and-modern-file-handling.iml" filepath="$PROJECT_DIR$/nio-and-modern-file-handling/nio-and-modern-file-handling.iml" />
     </modules>
   </component>
 </project>
