@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" default="true" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/csv-and-json-processing/pom.xml" />
+        <option value="$PROJECT_DIR$/csv-and-json-processing/csv-to-json/pom.xml" />
+        <option value="$PROJECT_DIR$/csv-and-json-processing/csvtojson/pom.xml" />
+        <option value="$PROJECT_DIR$/csv-and-json-processing./pom.xml" />
+        <option value="$PROJECT_DIR$/csv-and-json-processing/src/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/csv-and-json-processing./pom.xml" />
+        <option value="$PROJECT_DIR$/csv-and-json-processing/csvtojson/pom.xml" />
+        <option value="$PROJECT_DIR$/csv-and-json-processing/lib/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
